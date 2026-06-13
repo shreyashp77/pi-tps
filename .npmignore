@@ -1,0 +1,6 @@
+# Non-package files
+PLAN.md
+session_summary/
+sorting-visualizer/
+node_modules/
+package-lock.json

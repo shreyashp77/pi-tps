@@ -1,0 +1,29 @@
+{
+  "name": "pi-tps-was-taken",
+  "version": "1.1.4",
+  "description": "Live tokens-per-second (TPS) widget for pi coding agent — animated spinner, color-coded performance, and real-time streaming stats in the footer",
+  "keywords": [
+    "pi-package",
+    "extension",
+    "tps",
+    "tokens-per-second",
+    "streaming"
+  ],
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "author": "Shreyash Patil",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyashp77/pi-tps.git"
+  },
+  "homepage": "https://github.com/shreyashp77/pi-tps",
+  "bugs": {
+    "url": "https://github.com/shreyashp77/pi-tps/issues"
+  }
+}
